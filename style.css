@@ -1,0 +1,29 @@
+/* Meu primeiro arquivo css */
+
+p{ 
+    color:red;  /* tudo que estiver com a tag <p> vai ficar em vermelho*/
+
+}
+
+body{
+    color:green; /*vai colorir tudo que estiver dentro do body de vermelho as letras */
+    
+    font-size: 25px ; /*altera o tamanho da fonte*/
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif; /*altera o tipo de fonte*/
+}
+#div_1{
+    width: 550px;
+    background-color: blue;
+    float: left;
+}
+#div_2{
+    width: 550px;
+    background-color: red;
+}
+h1{
+    color: yellow;
+}
+
+
+
+
